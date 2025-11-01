@@ -1,44 +1,44 @@
-- question: sein – ist – war – ist gewesen
-  answer: to be
+- question: "sein(to be)"
+  answer: "ist-war-ist gewesen"
 
-- question: haben – hat – hatte – hat gehabt
-  answer: to have
+- question: "haben(to have)"
+  answer: "hat-hatte-hat gehabt"
 
-- question: gehen – geht – ging – ist gegangen
-  answer: to go
+- question: "gehen(to go)"
+  answer: "geht-ging-ist gegangen"
 
-- question: kommen – kommt – kam – ist gekommen
-  answer: to come
+- question: "kommen(to come)"
+  answer: "kommt-kam-ist gekommen"
 
-- question: sehen – sieht – sah – hat gesehen
-  answer: to see
+- question: "sehen(to see)"
+  answer: "sieht-sah-hat gesehen"
 
-- question: sprechen – spricht – sprach – hat gesprochen
-  answer: to speak
+- question: "sprechen(to speak)"
+  answer: "spricht-sprach-hat gesprochen"
 
-- question: essen – isst – aß – hat gegessen
-  answer: to eat
+- question: "essen(to eat)"
+  answer: "isst-aß-hat gegessen"
 
-- question: trinken – trinkt – trank – hat getrunken
-  answer: to drink
+- question: "trinken(to drink)"
+  answer: "trinkt-trank-hat getrunken"
 
-- question: schreiben – schreibt – schrieb – hat geschrieben
-  answer: to write
+- question: "schreiben(to write)"
+  answer: "schreibt-schrieb-hat geschrieben"
 
-- question: nehmen – nimmt – nahm – hat genommen
-  answer: to take
+- question: "nehmen(to take)"
+  answer: "nimmt-nahm-hat genommen"
 
-- question: schlafen – schläft – schlief – hat geschlafen
-  answer: to sleep
+- question: "schlafen(to sleep)"
+  answer: "schläft-schlief-hat geschlafen"
 
-- question: laufen – läuft – lief – ist gelaufen
-  answer: to run
+- question: "laufen(to run)"
+  answer: "läuft-lief-ist gelaufen"
 
-- question: bleiben – bleibt – blieb – ist geblieben
-  answer: to stay
+- question: "bleiben(to stay)"
+  answer: "bleibt-blieb-ist geblieben"
 
-- question: finden – findet – fand – hat gefunden
-  answer: to find
+- question: "finden(to find)"
+  answer: "findet-fand-hat gefunden"
 
-- question: geben – gibt – gab – hat gegeben
-  answer: to give
+- question: "geben(to give)"
+  answer: "gibt-gab-hat gegeben"
